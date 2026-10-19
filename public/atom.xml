@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mad Data Scientist</title>
+  <id>https://maddatascientist.io</id>
+  <link href="https://maddatascientist.io"/>
+  <link href="https://maddatascientist.io/atom.xml" rel="self"/>
+  <updated>1970-01-01T00:00:00Z</updated>
+  <subtitle>Common problems across many fields, and ergonomic ways to solve them. Julia is the tool, not the pitch.</subtitle>
+  
+</feed>

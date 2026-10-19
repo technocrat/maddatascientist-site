@@ -1,0 +1,9 @@
+# Mad Data Scientist
+
+> Common problems across many fields, and ergonomic ways to solve them. Julia is the tool, not the pitch.
+
+## Pages
+
+- [About](https://maddatascientist.io/about.html): I came to programming late, after a career in planning and law, so I remember how the first steps feel. These pages are written for capable people in any field who are good at their own work and new to this part of it.
+- [Blog](https://maddatascientist.io/blog.html): All posts, sorted from newest to oldest.
+- [Home](https://maddatascientist.io/): Some problems show up in every field. A workbook that takes a minute to open. Twenty near-identical files that need the same cleanup. A chart that wants one more step than the tool allows.
